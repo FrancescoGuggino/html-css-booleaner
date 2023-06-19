@@ -1,0 +1,31 @@
+.bg_blue {
+    background-color: rgb(116, 192, 255);
+    height: 100px;
+}
+
+#img_logo {
+    height: 40px;
+    
+}
+
+#text_height {
+    height: 2px;
+}
+
+.bg_dodgeblue {
+    background-color: dodgerblue;
+}
+
+.bg_grey {
+    background-color: rgb(196, 196, 196);
+}
+
+.text_center {
+    text-align: center;
+    color: white;
+}
+
+.bg_blue_navy {
+    background-color: darkblue;
+    height: 40px
+}
